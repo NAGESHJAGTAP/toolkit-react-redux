@@ -1,0 +1,25 @@
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 20px;
+  background-color: bisque;
+}
+
+.container {
+  max-width: 500px;
+  margin: auto;
+}
+
+select, button {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+  background-color: coral;
+}
+
+pre {
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
